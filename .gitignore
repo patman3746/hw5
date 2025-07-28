@@ -1,0 +1,5 @@
+/.venv/
+/nlp/
+/wikipedia-biography-dataset/
+data
+vocab
